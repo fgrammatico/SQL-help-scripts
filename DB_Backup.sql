@@ -1,2 +1,0 @@
-BACKUP DATABASE [BPA] TO  DISK = N'\\miaisilon\miqa\Backups\BPA_DB\MIQA-AUTOMATE-0\Backup_BPA.bak' WITH FORMAT, INIT,  NAME = N'Backup_BPA-Full Database Backup', SKIP, NOREWIND, RETAINDAYS = 2, NOUNLOAD,  STATS = 10
-GO
